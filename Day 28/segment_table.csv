@@ -1,0 +1,4 @@
+Segment,Customers,Total_Sales,Avg_Orders,Avg_AOV,Customer_Share_%,Sales_Share_%
+Loyal (4+ orders),140,46899.94,4.3,77.38,5.6,16.7
+One-time,1201,62889.09,1.0,52.36,48.04,22.4
+Repeat (2-3 orders),1159,170992.86,2.27,64.44,46.36,60.9
